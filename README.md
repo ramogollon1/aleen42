@@ -14,7 +14,7 @@ My name is PuiMan Cheui, who is living in GuangZhou, China. My major post is foc
 - 🏸 I'm currently learning how to play badminton better.
 - 🕹 Technical Stacks: JavaScript(TypeScript) + Babel + UglifyJS, Webpack, Gulp, Less(Sass) + PostCss, core-js(shim), [etc.](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/JavaScript.html)
 - 🎮 Frameworks Experience: React, Vue, Ionic + Angular 1.x, aralejs, [etc.](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/Framework.html)
-- 📫 Email me by aleen42@vip.qq.com
+- 📫 Email me by aleen42@vip.qq.com.
 
 During the process of becoming an advanced JavasScript developer, I hope to explore my graphic techniques in the future like **WebGL**, **GLSL**. In order to step out, I have written a small thing, named "[**How to draw in JavaScript**](https://aleen42.github.io/PersonalWiki/post/how_to_draw/how_to_draw.html)", where we can use JavaScript to simuate drawing with given images.
 
