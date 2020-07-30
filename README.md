@@ -28,6 +28,4 @@ As a coder, I hope to be more than a designer at the same time, like creating "[
 
 Finally, welcome to my profile! You can follow me if my works are of interest.
 
-Any question ? Please contact me via:
-
-[![badges](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/aleen42) [![badges](https://aleen42.github.io/badges/src/wechat.svg)](https://github.com/aleen42/aleen42/blob/master/wechat.jpg)
+Any question ? Please contact me via: [![badges](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/aleen42) [![badges](https://aleen42.github.io/badges/src/wechat.svg)](https://github.com/aleen42/aleen42/blob/master/wechat.jpg)
